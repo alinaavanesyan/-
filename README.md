@@ -34,9 +34,9 @@
 **3) разметка токенов Основного корпуса НКРЯ с помощью написанной функции**
 Разметка должна осуществлятья в соответствии со следующими правилами:
 - для искаженных форм:
-<img height='150' src='https://github.com/alinaavanesyan/Automating-the-annotation-of-corpus-data/blob/main/Искаженные_формы.png'>
+<img height='50' src='https://github.com/alinaavanesyan/Automating-the-annotation-of-corpus-data/blob/main/Искаженные_формы.png'>
 -  для междометий/звукоподражаний
-<img height='150' src='https://github.com/alinaavanesyan/Automating-the-annotation-of-corpus-data/blob/main/Междометие.png'>
+<img height='50' src='https://github.com/alinaavanesyan/Automating-the-annotation-of-corpus-data/blob/main/Междометие.png'>
 
 **4) оценка возможностей применения спеллчекера как дополнительного инструмента нормализации данных.**
 
