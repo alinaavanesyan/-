@@ -89,7 +89,7 @@ VI) Функция алгоритма возвращает список с ис�
 ## Результаты
 Результаты разметки были представлены в виде датафрейма (рис. 1).
 
- ![alt tag](http://url/to/img.png)
+ ![alt tag]([http://url/to/img.png](https://github.com/alinaavanesyan/Automating-the-annotation-of-corpus-data/blob/main/%D0%A0%D0%B0%D0%B7%D0%BC%D0%B5%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5.png)https://github.com/alinaavanesyan/Automating-the-annotation-of-corpus-data/blob/main/%D0%A0%D0%B0%D0%B7%D0%BC%D0%B5%D1%87%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D0%B5.png)
 
 Точность алгоритма, измеренная метрикой accuracy, составила 96%.
 
