@@ -34,13 +34,9 @@
 **3) разметка токенов Основного корпуса НКРЯ с помощью написанной функции**
 Разметка должна осуществлятья в соответствии со следующими правилами:
 - для искаженных форм:
-<div>
-<distinct form="Сла-ва-ва-вав-ва-ва-ва-ва-ва-ва-ва-ва-ва-ва"><w>слава</w></distinct>"
-</div>
+<img height='150' src='https://github.com/alinaavanesyan/Automating-the-annotation-of-corpus-data/blob/main/Искаженные_формы.png'>
 -  для междометий/звукоподражаний
-<div>
-"<w>урр-р-р-р-рррра</w>"
-</div>
+<img height='150' src='https://github.com/alinaavanesyan/Automating-the-annotation-of-corpus-data/blob/main/Междометие.png'>
 
 **4) оценка возможностей применения спеллчекера как дополнительного инструмента нормализации данных.**
 
